@@ -23,3 +23,8 @@ git commit -m “added GitHubRepoAssignment.txt”
 
 //edited txt file//
 
+git add GitHubRepoAssignment.txt
+
+git commit -m “updated GitHubRepoAssignment.txt”
+
+git status
