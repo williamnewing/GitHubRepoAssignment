@@ -1,0 +1,25 @@
+//Created repo - https://github.com/williamnewing/GitHubRepoAssignment.git// 
+//On Terminal, did the following://
+
+mkdir GitHubRepoAssignment
+
+cd GitHubRepoAssignment
+
+git init
+
+touch readme.md
+
+git add readme.md
+
+git commit -m “added readme.md” 
+
+git status 
+
+touch GitHubRepoAssignment.txt
+
+git add GitHubRepoAssignemnt.txt
+
+git commit -m “added GitHubRepoAssignment.txt” 
+
+//edited txt file//
+
